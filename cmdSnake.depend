@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1506358589 source:c:\users\alex\google Диск\sources\cpp\cpp projects\vagabunder\cmdsnake\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<ctime>
+	<Windows.h>
+	<cmath>
+	<string>
+	<fstream>
+	"colors.h"
+	"render.h"
+
+1494960355 c:\users\alex\google Диск\sources\cpp\cpp projects\vagabunder\cmdsnake\colors.h
+	<stdio.h>
+
+1504631248 c:\users\alex\google Диск\sources\cpp\cpp projects\vagabunder\cmdsnake\render.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"colors.h"
+
