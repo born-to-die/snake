@@ -1,2 +1,2 @@
 # snake
-Everyone makes it
+Everyone makes it. Code Blocks project
